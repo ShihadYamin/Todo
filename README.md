@@ -8,3 +8,12 @@ This repository contains the source code for managing daily tasks with features 
 🗑️ Delete tasks
 🎯 Mark tasks as completed / pending
 💾 Persistent storage (optional: localStorage/Database depending on implementation)
+
+
+
+
+***** ONLY BACKEND SOURCE *****
+  ---NODE JS---
+  ---MONGO DB---
+
+
